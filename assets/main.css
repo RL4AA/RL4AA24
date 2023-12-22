@@ -95,7 +95,7 @@ ul {
   text-align: left;
 }
 ul li {
-  list-style: none;
+  list-style: inside;
   margin: 0px auto 0px auto;
   padding: 0px;
   text-align: left;
